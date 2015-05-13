@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1158423/kingkong-board/tags/1.7.2/class
+END
+class.KKB_Controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/1158423/kingkong-board/tags/1.7.2/class/class.KKB_Controller.php
+END
+class.KKB_Backup.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/1158423/kingkong-board/tags/1.7.2/class/class.KKB_Backup.php
+END
+class.KKB_Comments.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/1158423/kingkong-board/tags/1.7.2/class/class.KKB_Comments.php
+END
+class.KKB_Config.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/1158423/kingkong-board/tags/1.7.2/class/class.KKB_Config.php
+END
+class.KingkongBoard.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/1158423/kingkong-board/tags/1.7.2/class/class.KingkongBoard.php
+END
+class.KKB_Shop.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/1158423/kingkong-board/tags/1.7.2/class/class.KKB_Shop.php
+END
+class.XML2Array.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/1158423/kingkong-board/tags/1.7.2/class/class.XML2Array.php
+END
+class.initialize.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/1158423/kingkong-board/tags/1.7.2/class/class.initialize.php
+END
+class.KKB_List.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/1158423/kingkong-board/tags/1.7.2/class/class.KKB_List.php
+END
+class.KKB_Latest.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/1158423/kingkong-board/tags/1.7.2/class/class.KKB_Latest.php
+END

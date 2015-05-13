@@ -8,8 +8,8 @@ Stable tag: 1.7.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-킹콩보드는 한국형 게시판 플러그인으로 다양한 확장성과 편리한 UI 를 바탕으로 제작 되었습니다.!!! 
-충돌상태테스트sfs
+킹콩보드는 한국형 게시판 플러그인으로 다양한 확장성과 편리한 UI 를 바탕으로 제작 되었습니다. 
+
 == Description ==
 
 킹콩보드는 GPLv2 라이센스로 영리/비영리 누구나 사용가능한 게시판 플러그인 입니다. 
